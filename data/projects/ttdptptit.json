@@ -1,0 +1,71 @@
+{
+  "projectNumber": "03",
+  "title": "TTDPTPTIT",
+  "category": "SOCIAL CONTENT · EDUCATION · TIKTOK",
+  "summary": "Kênh TikTok của Khoa Đa phương tiện, PTIT — nơi mình cùng đội nhóm biến ý tưởng thành video.",
+  "period": "Tháng 7/2025 — Tháng 12/2025",
+  "platforms": ["TikTok"],
+  "overview": {
+    "context": "TTDPTPTIT là kênh TikTok của Khoa Đa phương tiện, PTIT. Mình tham gia cùng đội nhóm phát triển nội dung video cho kênh, trải nghiệm nhiều công đoạn từ lên ý tưởng, viết kịch bản đến biên tập và dẫn hình.",
+    "objective": "Dự án giúp mình làm quen với quá trình sản xuất nội dung trong môi trường làm việc nhóm, đồng thời thực hành cách đưa ý tưởng thành những video phù hợp với nền tảng TikTok."
+  },
+  "myRole": {
+    "role": "Phát triển nội dung TikTok và tham gia sản xuất video cùng đội ngũ.",
+    "responsibilities": [
+      "Lên ý tưởng và xây dựng kịch bản video.",
+      "Biên tập nội dung video.",
+      "Tham gia dẫn hình với vai trò VJ.",
+      "Phối hợp cùng các thành viên trong quá trình sản xuất nội dung."
+    ]
+  },
+  "selectedOutputGroups": [
+    {
+      "id": "workSheets",
+      "items": [
+        {"type":"image","label":"TIMELINE · THÁNG 7/2025","orientation":"sheet","title":"Kế hoạch và phân công nội dung","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.21.42.png"},
+        {"type":"image","label":"TIMELINE · THÁNG 8/2025","orientation":"sheet","title":"Theo dõi tiến độ sản xuất","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.22.02.png"},
+        {"type":"image","label":"TIMELINE · THÁNG 9/2025","orientation":"sheet","title":"Phối hợp công việc theo nhóm","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.22.18.png"},
+        {"type":"image","label":"VIDEO REVIEW","orientation":"sheet","title":"Phân tích chỉ số nội dung","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.23.38.png"},
+        {"type":"image","label":"CHANNEL STRATEGY","orientation":"sheet","title":"Thông tin kênh và phân tích đối tượng","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.52.34.png"},
+        {"type":"image","label":"CREATIVE DIRECTION","orientation":"sheet","title":"Concept, tuyến nội dung và nhiệm vụ","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.52.53.png"}
+      ]
+    },
+    {
+      "id": "channelGallery",
+      "items": [
+        {"type":"image","label":"CHANNEL GALLERY · 01","orientation":"landscape","title":"Các nội dung nổi bật trên kênh","src":"assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.33.19.jpg"},
+        {"type":"image","label":"CHANNEL GALLERY · 02","orientation":"landscape","title":"Video về đời sống sinh viên","src":"assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.33.32.jpg"},
+        {"type":"image","label":"CHANNEL GALLERY · 03","orientation":"landscape","title":"Video đời sống và sự kiện","src":"assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.33.55.jpg"},
+        {"type":"image","label":"CHANNEL GALLERY · 04","orientation":"landscape","title":"Video kiến thức và hoạt động PTIT","src":"assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.33.44.jpg"},
+        {"type":"image","label":"CHANNEL GALLERY · 05","orientation":"landscape","title":"Video học tập và chia sẻ kinh nghiệm","src":"assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.34.07.jpg"}
+      ]
+    }
+  ],
+  "results": {
+    "summary": "Trong 6 tháng (7–12/2025), kênh đăng 115 video, đạt khoảng 1.403.000 lượt xem và 46.166 lượt thích. Followers tăng từ 2.470 lên 4.516 (+2.046, khoảng 82,8%). Video có lượt xem nổi bật trong ảnh gallery là “Chính thức! Điểm chuẩn Học viện Công nghệ Bưu chính Viễn thông 2025”, đạt 153.1K lượt xem.",
+    "metrics": [
+      {"icon":"videos","label":"Tổng số video đã đăng","value":"115","evidence":"Bảng tổng hợp chỉ số được gửi trong ảnh Screenshot 2026-10-17 at 13.03.10."},
+      {"icon":"views","label":"Tổng lượt xem","value":"~1.403.000","evidence":"Bảng tổng hợp chỉ số được gửi trong ảnh Screenshot 2026-10-17 at 13.03.10."},
+      {"icon":"likes","label":"Tổng lượt thích","value":"46.166","evidence":"Bảng tổng hợp chỉ số được gửi trong ảnh Screenshot 2026-10-17 at 13.03.10."},
+      {"icon":"followers","label":"Followers · 2.470 → 4.516 (+82,8%)","value":"+2.046","evidence":"Bảng tổng hợp chỉ số được gửi trong ảnh Screenshot 2026-10-17 at 13.03.10; phần trăm tăng là phép tính từ số followers đầu và cuối kỳ."},
+      {"icon":"views","label":"Lượt xem video nổi bật","value":"153.1K","evidence":"Ảnh tổng hợp video tại assets/web/images/social/ttdptptit/Screenshot 2026-10-17 at 12.33.19.jpg."}
+    ],
+    "featuredVideos": [
+      {"type":"image","label":"94.7K VIEWS","orientation":"portrait","title":"Hướng dẫn design poster với Canva","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.30.51.png"},
+      {"type":"image","label":"61K VIEWS","orientation":"portrait","title":"POV: Khi bạn là sinh viên TTDPT","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.31.01.png"},
+      {"type":"image","label":"64.5K VIEWS","orientation":"portrait","title":"Ước gì năm nhất biết điều này sớm hơn","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.31.23.png"},
+      {"type":"image","label":"51.3K VIEWS","orientation":"portrait","title":"Canva “chói lóa” khiến dân thiết kế sốc","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.34.31.png"},
+      {"type":"image","label":"102.9K VIEWS","orientation":"portrait","title":"Cách trường P “tán lộc”","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.34.42.png"},
+      {"type":"image","label":"46.8K VIEWS","orientation":"portrait","title":"Visual ngày nhập học","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.34.57.png"},
+      {"type":"image","label":"13.7K VIEWS","orientation":"portrait","title":"Your Name phiên bản PTIT","src":"assets/images/social/ttdptptit/Screenshot 2026-10-17 at 12.35.07.png"}
+    ]
+  },
+  "learnings": [
+    "TTDPTPTIT giúp mình hiểu rõ hơn sự kết nối giữa các công đoạn sản xuất nội dung. Ý tưởng và kịch bản cần đi cùng cách thể hiện, biên tập và phối hợp nhóm để tạo nên một video hoàn chỉnh.",
+    "Việc tham gia cả khâu phát triển nội dung lẫn dẫn hình cũng giúp mình có thêm trải nghiệm về cách truyền tải thông điệp trực tiếp đến người xem."
+  ],
+  "channel": {
+    "label": "Xem kênh TikTok",
+    "url": "https://www.tiktok.com/@ttdpt.ptit"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "projectNumber": "02",
+  "title": "Lạc Đà Podcast",
+  "category": "PERSONAL CONTENT · TIKTOK · STORYTELLING",
+  "summary": "Kênh TikTok cá nhân để thực hành phát triển nội dung và thử nghiệm cách kể chuyện qua video.",
+  "period": "Tháng 4/2025 — Tháng 7/2025",
+  "platforms": ["TikTok"],
+  "overview": {
+    "context": "Lạc Đà Podcast là dự án kênh TikTok cá nhân, nơi mình thực hành phát triển nội dung và thử nghiệm cách truyền tải những ý tưởng, góc nhìn thông qua video.",
+    "objective": "Khác với các dự án thương hiệu, đây là không gian để mình chủ động hơn trong việc lựa chọn chủ đề, tìm kiếm cách diễn đạt và khám phá hướng sáng tạo phù hợp với bản thân."
+  },
+  "myRole": {
+    "role": "Phát triển nội dung và storytelling cho kênh TikTok cá nhân",
+    "responsibilities": [
+      "Tìm kiếm và lựa chọn chủ đề nội dung.",
+      "Phát triển ý tưởng, xây dựng nội dung hoặc kịch bản video.",
+      "Triển khai các video theo định hướng của kênh.",
+      "Theo dõi phản hồi của người xem để nhìn nhận và cải thiện nội dung."
+    ]
+  },
+  "selectedOutputs": [
+    {"type":"image","label":"VIDEO NỔI BẬT","orientation":"portrait","title":"Bố mẹ tự hào vì mình","src":"assets/images/social/lac-da-podcast/%7B3FD897CD-7256-4ADC-888C-AF9334EC22F7%7D.png","caption":"3.506 lượt xem"},
+    {"type":"image","label":"VIDEO NỔI BẬT","orientation":"portrait","title":"Tự hào Việt Nam","src":"assets/images/social/lac-da-podcast/%7BEF776996-8D5F-4E5F-9F89-EB5299DFE28E%7D.png","caption":"1.665 lượt xem"},
+    {"type":"image","label":"VIDEO","orientation":"portrait","title":"Suy tư 02 — Khoảnh khắc bình yên","src":"assets/images/social/lac-da-podcast/%7B4539C151-9E7C-4A82-9FDE-ED8FF91B4440%7D.png","caption":"935 lượt xem"},
+    {"type":"image","label":"VIDEO","orientation":"portrait","title":"Suy tư 04 — Quay về thời học sinh","src":"assets/images/social/lac-da-podcast/%7B8FB6D046-0729-4E35-9736-E494D9E466F7%7D.png","caption":"774 lượt xem"}
+  ],
+  "results": {
+    "summary": "Kênh được phát triển từ tháng 4 đến tháng 7/2025. Trong ảnh TikTok Analytics với khoảng thời gian 60 ngày gần nhất, kênh ghi nhận 13K lượt xem video, 314 lượt xem hồ sơ, 703 lượt thích, 141 bình luận và 21 lượt chia sẻ. Thumbnail nổi bật nhất trong nhóm video đã chọn ghi nhận 3.506 lượt xem.",
+    "metrics": [
+      {"icon":"views","label":"Lượt xem video · 60 ngày gần nhất","value":"13K","evidence":"Ảnh TikTok Analytics trong thư mục assets, bộ lọc 60 ngày gần nhất."},
+      {"icon":"likes","label":"Lượt thích · 60 ngày gần nhất","value":"703","evidence":"Ảnh TikTok Analytics trong thư mục assets, bộ lọc 60 ngày gần nhất."}
+    ],
+    "evidenceImages": [
+      {"title":"TikTok Analytics · 60 ngày gần nhất","src":"assets/images/social/lac-da-podcast/%7B06C92D7A-98BF-4545-AA1D-334E08F14713%7D.png","caption":"13K lượt xem video · 314 lượt xem hồ sơ · 703 lượt thích · 141 bình luận · 21 lượt chia sẻ."},
+      {"title":"Ảnh chụp hồ sơ và bài đăng TikTok","src":"assets/web/images/social/lac-da-podcast/tiktok-profile.jpg","caption":"Ảnh hồ sơ tại thời điểm chụp hiển thị 36 người theo dõi và 440 lượt thích; số liệu này được lưu riêng với ảnh analytics."}
+    ]
+  },
+  "learnings": [
+    "Dự án giúp mình thực hành việc chủ động phát triển nội dung từ một ý tưởng ban đầu đến sản phẩm hoàn chỉnh. Mình dần chú ý hơn đến cách lựa chọn góc tiếp cận, tổ chức thông tin và diễn đạt để người xem có thể hiểu được điều mình muốn truyền tải.",
+    "Đây cũng là cơ hội để mình thử nghiệm, quan sát phản hồi và tìm hiểu rõ hơn về phong cách sáng tạo của bản thân."
+  ]
+}

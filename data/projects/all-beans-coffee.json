@@ -1,0 +1,51 @@
+{
+  "projectNumber": "01",
+  "title": "All Beans Coffee Roaster",
+  "category": "SOCIAL CONTENT · COFFEE · TIKTOK",
+  "summary": "Phát triển nội dung đa nền tảng xoay quanh cà phê, sản phẩm và trải nghiệm pha chế.",
+  "period": "Tháng 7/2025 — Tháng 8/2026",
+  "platforms": ["TikTok", "Facebook", "Instagram", "Threads"],
+  "overview": {
+    "context": "All Beans Coffee Roaster là thương hiệu cà phê rang xay, cung cấp hạt cà phê và dụng cụ pha chế. Trong dự án này, mình tham gia phát triển nội dung trên các nền tảng mạng xã hội của thương hiệu, từ TikTok đến Facebook, Instagram và Threads. Nội dung xoay quanh cà phê, sản phẩm và trải nghiệm pha chế.",
+    "objective": "Truyền tải thông tin về cà phê, sản phẩm và trải nghiệm pha chế theo cách gần gũi, phù hợp với đặc điểm của từng nền tảng."
+  },
+  "myRole": {
+    "role": "Phát triển nội dung đa nền tảng",
+    "responsibilities": [
+      "Nghiên cứu chủ đề và phát triển ý tưởng nội dung liên quan đến cà phê.",
+      "Xây dựng kịch bản video ngắn, viết bài đăng và nội dung tin.",
+      "Tham gia triển khai và sản xuất nội dung.",
+      "Phát triển nội dung trên TikTok, Facebook, Instagram và Threads theo kế hoạch của thương hiệu.",
+      "Hỗ trợ bán hàng qua sàn thương mại điện tử Shopee và TikTok Shop."
+    ]
+  },
+  "selectedOutputs": [
+    {"type":"image","label":"VIDEO · ĐÃ GHIM","orientation":"portrait","title":"Dùng nắp gài khi pha phin sao cho đúng","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.04.49.png","caption":"77.3K lượt xem"},
+    {"type":"image","label":"VIDEO · ĐÃ GHIM","orientation":"portrait","title":"Top 5 công dụng của bã cà phê","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.04.56.png","caption":"217.2K lượt xem"},
+    {"type":"image","label":"VIDEO · ĐÃ GHIM","orientation":"portrait","title":"Single shot, double shot: nghẹt và mượt","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.05.02.png","caption":"41.5K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Sai lầm khi pha cà phê phin","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.05.11.png","caption":"13.8K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Rang gấp cho khách Tây: 2 túi Fine Robusta","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.05.25.png","caption":"11.8K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Cà phê pha máy và cà phê phin khác nhau thế nào?","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.05.36.png","caption":"20.3K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Túi lọc cold brew tái sử dụng","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.05.42.png","caption":"48.5K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Cùng một loại hạt với ba mức rang","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.06.59.png","caption":"14.6K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Espresso làm nền cho các món nào?","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.07.04.png","caption":"20K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"Tại sao cần ngâm ủ khi pha cà phê phin?","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.07.15.png","caption":"24.3K lượt xem"},
+    {"type":"image","orientation":"portrait","title":"5 kỹ thuật pha cà phê nổi tiếng","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.07.21.png","caption":"29.6K lượt xem"}
+  ],
+  "results": {
+    "summary": "Tham gia phát triển kênh từ đầu, từ tháng 7/2025 đến tháng 8/2026. Ba video nổi bật được ghim trên TikTok; lượt xem của từng video được ghi trên thumbnail.",
+    "metrics": [
+      {"icon":"followers","label":"Người theo dõi TikTok","value":"3,648","evidence":"Ảnh chụp hồ sơ kênh ngày 17/10/2026."},
+      {"icon":"likes","label":"Lượt thích TikTok","value":"15.9K","evidence":"Ảnh chụp hồ sơ kênh ngày 17/10/2026."}
+    ],
+    "evidenceImages": [
+      {"title":"Hồ sơ kênh TikTok","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.06.36.png","caption":"Ảnh chụp hồ sơ: 3,648 người theo dõi và 15.9K lượt thích."},
+      {"title":"Analytics · 365 ngày gần nhất","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.25.44.png","caption":"788.6K lượt xem video · 6.6K lượt xem hồ sơ · 14.3K lượt thích · 397 bình luận · 2.2K lượt chia sẻ."},
+      {"title":"Analytics · 60 ngày gần nhất","src":"assets/images/social/all-beans-coffee/Screenshot 2026-10-17 at 11.25.54.png","caption":"114.5K lượt xem video · 694 lượt xem hồ sơ · 1.3K lượt thích · 32 bình luận · 123 lượt chia sẻ."}
+    ]
+  },
+  "learnings": [
+    "Trải nghiệm tại All Beans giúp mình hiểu hơn về việc phát triển nội dung cho một thương hiệu sản phẩm, từ tìm kiếm chủ đề phù hợp đến cách truyền tải kiến thức và trải nghiệm qua video ngắn.",
+    "Mình có cơ hội làm quen với việc triển khai nội dung trên nhiều nền tảng, đồng thời nhận ra tầm quan trọng của việc điều chỉnh cách thể hiện theo đặc điểm của từng kênh."
+  ]
+}
